@@ -4,3 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+<meta http-equiv="refresh" content="0; URL='https://github.com/tomonari-yamashita/japan-camel-user-group/wiki'" />
