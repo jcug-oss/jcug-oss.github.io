@@ -1,7 +1,7 @@
 ---
 layout: page
 title: なぜ今Apache Camelを学ぶ必要があるのか？
-permalink: /article/why-do-we-have-to-learn-camel_q
+permalink: /article/why-do-we-have-to-learn-camel-q
 ---
 
 <meta http-equiv="refresh" content="0; URL='https://github.com/tomonari-yamashita/japan-camel-user-group/wiki/なぜ今Apache Camelを学ぶ必要があるのか？'" />
