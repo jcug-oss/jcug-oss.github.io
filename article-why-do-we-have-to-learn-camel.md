@@ -1,12 +1,17 @@
 ---
 layout: splash
-title: なぜ今Apache Camelを学ぶ必要があるのか？
+title: '<br/><br/><br/><br/><br/><br/><br/><br/>なぜ今Apache Camelを学ぶ必要があるのか？'
 permalink: /article/why-do-we-have-to-learn-camel-q
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/camel-blue.jpg
+  caption: 
+excerpt: ''
 ---
 
 <!-- meta http-equiv="refresh" content="0; URL='https://github.com/tomonari-yamashita/japan-camel-user-group/wiki/なぜ今Apache Camelを学ぶ必要があるのか？'" /-->
 
-# なぜ今Apache Camelを学ぶ必要があるのか？
+{% include toc %}
 
 ### はじめに
 Apache Camelの開発者であるClaus Ibsen氏は、Camelのことを「ツールボックス」と表現している。Camelは、プログラマの能力を一段と引き上げる洗練されたツールで、すべてのJavaプログラマが学ぶ価値のあるものだ。
@@ -206,7 +211,7 @@ Camelはテストのしやすさが考慮されている。エンドポイント
 > この度、少しでもCamelのよさを知ってもらうために、Red Hat社の有志社員を中心として、Camelのユーザグループを作成する運びとなりました。（Red Hat社としての活動ではありません。参加者全員の自主的な活動により成り立っています。）ゆくゆくは日本でのCamelのオープンソースコミュニティを成熟させて、利用者を増やすことはもちろんのこと、機能追加の提案やプルリクエストなどの貢献が行なえるようなメンバーがでてくることも目指しています。Camelはコーディング規約やドキュメントも用意されているため開発に参加するハードルも低く、今後も新技術に対応したコンポーネント作りが求められていくはずです。実際にコンポーネント作りを通してCamelのコミッターになった方もいます。さらに幸運なことにCamelの開発に携わる日本人技術者さえいます。日本におけるCamelコミュニティの場から、お互いの貢献を通して、そしてお互いに還元できればと思っています。
 >
 > Camelに興味を持った方は、「Camal In Action」の読書会を定期的に実施しておりますので、是非ご参加ください。
-> -[https://github.com/tomonari-yamashita/japan-camel-user-group/wiki](https://github.com/tomonari-yamashita/japan-camel-user-group/wiki)
+> -<https://jcug-oss.github.io/>
 
 ## まとめ
 Camelが提供する機能や特徴を見てきた。現在の新技術にあわせてApache Camelは今も進化が続いている。特にクラウド、マイクロサービスといった技術を用いたシステム開発の浸透につれ、これらに必須の様々な機能を提供しているCamelは、必要不可欠な薄いインフラとして確固たる地位を築き始めている。

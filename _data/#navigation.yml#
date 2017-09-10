@@ -2,7 +2,7 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: kes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
+   - title: "JCUGについて"
      url: https://jcug-oss.github.io/about/
   # - title: "Sample Posts"
   #   url: /year-archive/

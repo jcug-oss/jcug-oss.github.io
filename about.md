@@ -1,10 +1,14 @@
 ---
 layout: splash
-title: JCUGについて
+title: '<br/><br/><br/><br/>Japan Camel User Group (JCUG)について'
 permalink: /about/
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/community.jpg
+  caption: 
+excerpt: ''
 ---
 
-# Japan Camel User Group (JCUG)について
 ## 活動の目的
 Japan Camel User Group(JCUG)は、資料公開/読書会/勉強会を通して、Apache Camelの普及と技術向上および技術者交流を目的とした団体です。また、Apache Camelプロジェクトに対して機能拡張リクエストやプルリクエストにより貢献ができるコミュニティづくりを目指します。
 
