@@ -11,7 +11,7 @@ layout: home
 
 ## 次回の勉強会
   * 「**第１回 Camel in Action 読書会**」**2017/09/26(火) 19:00〜** [Red Hat株式会社 東京オフィス 8F](https://www.redhat.com/ja/files/resources/ja-rhkk-map-2013.pdf)
-    * 第１回目となります。Apache Camelの概要を説明する内容にもなっていますのでこの回だけ興味あるという方も、是非ご参加ください。「**[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel)**」
+    * 第１回目となります。Apache Camelの概要を説明する内容にもなっていますのでこの回だけ興味あるという方も、是非ご参加ください。「**[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel_q)**」
 
     * まだ書籍をご購入いただいていない方は、購入せずに当日ご参加ください。
       * Claus Ibsen氏によりいくつかEBookを提供頂いておりますので、継続してご参加いただける方にお渡しします。数に限りがありますので予めご了承ください。
@@ -19,7 +19,7 @@ layout: home
 
 ## ニュース
 * [2017/09/10のニュース] 
-  * 「**[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel)**」
+  * 「**[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel_q)**」
     > Camelは、プログラマの能力を一段と引き上げる洗練されたツールで、すべてのJavaプログラマが学ぶ価値のあるものだ。
 * [2017/08/31のニュース] 
   * 「**[Apache Camel 2.19.0 の新機能](http://qiita.com/tadayosi/items/ab5c548b4ea500665e65)**」
@@ -42,7 +42,7 @@ JCUGは、Apache CamelをFuseとして製品サブスクリプション販売を
     * 第１回 読書会2017/09/26(火) 19:00〜
 
 ##  公開資料
-* 「**[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel)**」
+* 「**[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel_q)**」
   > Camelは、プログラマの能力を一段と引き上げる洗練されたツールで、すべてのJavaプログラマが学ぶ価値のあるものだ。
 * 「[Apache Camel 2.19.0 の新機能](http://qiita.com/tadayosi/items/ab5c548b4ea500665e65)」
   > Apache Camel 2.19.0 がリリースされたので、注目機能をまとめてみる。
