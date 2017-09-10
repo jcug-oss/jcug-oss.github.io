@@ -1,20 +1,11 @@
 ---
-layout: default
+layout: archive
 ---
-<div class="home">
-<!--
-<h1 class="page-heading">Posts</h1>
- -->
-{{ content }}
-<ul class="post-list">
- <ul class="post-list">{% for post in site.posts %}
-  <li>{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-  <span class="post-meta">{{ post.date | date: date_format }}</span>
-  <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-  </li>
- </ul>
-</ul>
 
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
 {% endfor %}
 
-</div>
+{% include paginator.html %}
