@@ -56,4 +56,4 @@ JCUGは、Apache CamelをFuseとして製品サブスクリプション販売を
   * Japan Camel User Group(JCUG)発足の壮行会ともなりました。
   * ![](https://user-images.githubusercontent.com/27920264/29102228-8a769d90-7cf2-11e7-8cf2-6243e84d3032.jpg)
   * 日本にもいくつかCamelのユーザグループが存在するようなのですが、現在活動停止しているのか連絡が取れなかったため、この度Claus Ibsen氏とも相談しての発足となりました。いつかそうした方々とも合流できたら嬉しいです。
-***
+
