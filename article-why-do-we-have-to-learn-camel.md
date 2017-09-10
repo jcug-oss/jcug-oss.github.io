@@ -1,8 +1,17 @@
 ---
 layout: page
-title: Redirect Camel
+title: Redirect Why do we have to learn Apache Camel
 permalink: /article/why-do-we-have-to-learn-camel
 ---
 
-<meta http-equiv="refresh" content="0; URL='https://github.com/tomonari-yamashita/japan-camel-user-group/wiki/なぜ今Camelを学ぶ必要があるのか？'" />
+<meta http-equiv="refresh" content="0; URL='https://github.com/tomonari-yamashita/japan-camel-user-group/wiki/なぜ今Apache Camelを学ぶ必要があるのか？'" />
 
+Apache Camelの開発者であるClaus Ibsen氏は、Camelのことを「ツールボックス」と表現している。Camelは、プログラマの能力を一段と引き上げる洗練されたツールで、すべてのJavaプログラマが学ぶ価値のあるものだ。
+
+いままでCamelは、大規模なシステムのメッセージングを前提としたシステム間統合のためのミドルウェアと思われがちだった。こうしたこともあってか、どうやら日本での導入はいくつかの例外を除いて一部の大企業が中心のようだ。一方、海外ではより広範囲への導入が確実に進んでいる。実はCamelはどのようなアプリケーションでも利用できる、とても汎用的で拡張可能なライブラリでもあるのだ。
+
+Camelが提供する主な機能は、アダプタ、データ変換、ルーティング、エラーや障害時のハンドリングといったものだ。そして、これらは実際のコーディングの多くをしめ、複雑化しやすい部分でもある。初めてCamelで書かれたコードをみたら、シンプルで無駄がないことに驚くだろう。Camelでのプログラミングはコーディングであり、また設定であり、そしてそれらの調和によってプログラマの意図を直接反映させることができるものだ。
+
+クラウド、マイクロサービス、イベントソーシング、リアクティブプログラミング、API管理、モバイル、IoTといった技術の普及により、分散したマシン間でイベントを協調させるシステムが多くなってきた。こうしたことが海外における広範囲なCamelの導入の背景となっている。私の所属しているRed Hatでもでもそうした技術を用いた各種のリファレンスアーキテクチャ[1]を提案しているが、これらの実装にはCamelを利用することが前提となっている。こうした技術の利用においてCamelは必要不可欠な薄いインフラとして確固たる地位を築き始めている。
+
+今回はCamelの詳細には触れない。その代わりに、Camelは何ができ、そしてなぜ学ぶ必要があるのかを説明する。
