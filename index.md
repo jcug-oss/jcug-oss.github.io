@@ -54,8 +54,6 @@ intro:
     * Claus Ibsen氏によりいくつかEBookを提供頂いておりますので、継続してご参加いただける方にお渡しします。数に限りがありますので予めご了承ください。
     * 当日は同時に今後の運営方法についてもご相談させて頂きます。
 
-[Camel in Action, Second Edition](https://www.manning.com/books/camel-in-action-second-edition) (著 Claus Ibsen氏, Jonathan Anstey氏)
-
 ## <a name="news"></a>ニュース
 * [2017/09/10のニュース] 
   * 「**[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel-q)**」
