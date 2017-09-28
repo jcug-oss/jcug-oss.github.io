@@ -17,7 +17,7 @@ JCUGは、Apache CamelをFuseとして製品サブスクリプション販売を
 ## 発足/壮行会
 2017/08/08 恵比寿某所にて  
 
-真ん中右寄りにいるのがClaus Ibsen氏 (Apache Camelプロジェクトのヘッド。「Camel in Action」著者)  
+真ん中右寄りにいるのがClaus Ibsen氏 (Apache Camelのプロジェクトリード。「Camel in Action」共著者の1人)  
 Japan Camel User Group(JCUG)発足の壮行会ともなりました。
 
 ![](https://user-images.githubusercontent.com/27920264/29102228-8a769d90-7cf2-11e7-8cf2-6243e84d3032.jpg)
