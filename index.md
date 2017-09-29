@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/reading-group.jpg
     alt: "Camel In Action 読書会"
     title: "Camel In Action 読書会"
-    excerpt: "Camel In Actionの読書会を月１回のペースで実施しています。参加は[**こちら**](https://jcug-oss.connpass.com/event/66931/)から"
+    excerpt: "Camel In Actionの読書会を月１回のペースで実施しています。参加は[**こちら**](https://jcug-oss.connpass.com/)から"
     url: "#next-reading-group"
     btn_label: "More Details"
   - image_path: /assets/images/news.jpg
@@ -30,9 +30,9 @@ github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
   - excerpt: '
-「**第１回 Camel in Action 読書会**」**2017/09/26(火) 19:00〜** <br/>
+「**第２回 Camel in Action 読書会**」**2017/10/24(火) 19:00〜** <br/>
 [Red Hat株式会社 東京オフィス 8F](https://www.redhat.com/ja/files/resources/ja-rhkk-map-2013.pdf)<br/>
-参加は[**こちら**](https://jcug-oss.connpass.com/event/66931/)から<br/>
+参加は[**こちら**](https://jcug-oss.connpass.com/)から<br/>
   '
 ---
 
@@ -46,9 +46,9 @@ intro:
 <!-- meta http-equiv="refresh" content="0; URL='https://github.com/tomonari-yamashita/japan-camel-user-group/wiki/'" /-->
 
 ## <a name="next-reading-group"></a>次回の勉強会
-* 「**第１回 Camel in Action 読書会**」**2017/09/26(火) 19:00〜** [Red Hat株式会社 東京オフィス 8F](https://www.redhat.com/ja/files/resources/ja-rhkk-map-2013.pdf)
-  * ご参加は[**こちら**](https://jcug-oss.connpass.com/event/66931/)から : **<https://jcug-oss.connpass.com/event/66931/>**
-  * 第１回目となります。Apache Camelの概要を説明する内容にもなっていますのでこの回だけ興味あるという方も、是非ご参加ください。「[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel-q)」
+* 「**第２回 Camel in Action 読書会**」**2017/10/24(火) 19:00〜** [Red Hat株式会社 東京オフィス 8F](https://www.redhat.com/ja/files/resources/ja-rhkk-map-2013.pdf)
+  * ご参加は[**こちら**](https://jcug-oss.connpass.com/)から : **<https://jcug-oss.connpass.com/>**
+  * 「[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel-q)」
 
   * まだ書籍をご購入いただいていない方は、**購入せず**に当日ご参加ください。
     * Claus Ibsen氏によりいくつかEBookを提供頂いておりますので、継続してご参加いただける方にお渡しします。数に限りがありますので予めご了承ください。
@@ -78,8 +78,7 @@ intro:
 
 ![](https://user-images.githubusercontent.com/27920264/29101967-d36b94a8-7cf0-11e7-864c-e97f6734c976.jpeg)
 
-第１回 読書会2017/09/26(火) 19:00〜  
-ご参加は[**こちら**](https://jcug-oss.connpass.com/event/66931/)から : **<https://jcug-oss.connpass.com/event/66931/>**
+読書会 ご参加は[**こちら**](https://jcug-oss.connpass.com/)から : **<https://jcug-oss.connpass.com/>**
 
 <!--
   * [進め方](/tomonari-yamashita/japan-camel-user-group/wiki/Guidance) 準備中
