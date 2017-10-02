@@ -65,6 +65,9 @@ intro:
   * 「**[Camelのメモリ使用傾向](https://github.com/tomonari-yamashita/japan-camel-user-group/blob/master/camel-mem-usage/camel-mem-usage.adoc)**」 の資料が公開されました。
   > Camelのメモリ使用量を実測し、メモリ使用量の傾向と変動要素との関係を解説します。 最後に、幾つかのQ&Aを通じて、開発時のメモリ関連のベストプラクティスを紹介します。ベストプラクティスを紹介します。
 
+## フォーラム
+* Japan Camel User Group のフォーラムは[こちら](https://groups.google.com/forum/#!forum/japan-camel-user-group)(<https://groups.google.com/forum/#!forum/japan-camel-user-group>)
+
 ## 記事
 * 「[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel-q)」  
   > Camelは、プログラマの能力を一段と引き上げる洗練されたツールで、すべてのJavaプログラマが学ぶ価値のあるものだ。
