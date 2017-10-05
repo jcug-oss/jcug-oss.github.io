@@ -9,9 +9,9 @@ header:
 excerpt: ''
 feature_row:
   - image_path: /assets/images/reading-group.jpg
-    alt: "Camel In Action 読書会"
-    title: "Camel In Action 読書会"
-    excerpt: "Camel In Actionの読書会を月１回のペースで実施しています。参加は[**こちら**](https://jcug-oss.connpass.com/)から"
+    alt: "Camel in Action 読書会"
+    title: "Camel in Action 読書会"
+    excerpt: "Camel in Actionの読書会を月１回のペースで実施しています。参加は[**こちら**](https://jcug-oss.connpass.com/)から"
     url: "#next-reading-group"
     btn_label: "More Details"
   - image_path: /assets/images/news.jpg
@@ -24,7 +24,7 @@ feature_row:
     alt: "Camel Ridersの集い"
     title: "Camel Ridersの集い"
     excerpt: "Apache Camelに係る人たちの情報交換のためのコミュニティです。"
-    url: "/about/"
+    url: "#forum"
     btn_label: "More Details"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
@@ -45,7 +45,11 @@ intro:
 
 <!-- meta http-equiv="refresh" content="0; URL='https://github.com/tomonari-yamashita/japan-camel-user-group/wiki/'" /-->
 
+
+##  <a name="reading-group"></a>Camel in Action 読書会
+
 ## <a name="next-reading-group"></a>次回の勉強会
+
 * 「**第２回 Camel in Action 読書会**」**2017/10/24(火) 19:00〜** [Red Hat株式会社 東京オフィス 8F](https://www.redhat.com/ja/files/resources/ja-rhkk-map-2013.pdf)
   * ご参加は[**こちら**](https://jcug-oss.connpass.com/)から : **<https://jcug-oss.connpass.com/>**
   * 「[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel-q)」
@@ -54,7 +58,18 @@ intro:
     * Claus Ibsen氏によりいくつかEBookを提供頂いておりますので、継続してご参加いただける方にお渡しします。数に限りがありますので予めご了承ください。
     * 当日は同時に今後の運営方法についてもご相談させて頂きます。
 
-## <a name="news"></a>ニュース
+### Camel in Action, Second Edition
+
+[Camel in Action, Second Edition](https://www.manning.com/books/camel-in-action-second-edition) (著 Claus Ibsen氏, Jonathan Anstey氏)
+
+![](https://user-images.githubusercontent.com/27920264/29101967-d36b94a8-7cf0-11e7-864c-e97f6734c976.jpeg)
+
+読書会 ご参加は[**こちら**](https://jcug-oss.connpass.com/)から : **<https://jcug-oss.connpass.com/>**
+
+## <a name="news"></a>記事やニュース
+
+### ニュース
+
 * [2017/09/10のニュース] 
   * 「**[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel-q)**」
   * > Camelは、プログラマの能力を一段と引き上げる洗練されたツールで、すべてのJavaプログラマが学ぶ価値のあるものだ。
@@ -65,10 +80,8 @@ intro:
   * 「**[Camelのメモリ使用傾向](https://github.com/tomonari-yamashita/japan-camel-user-group/blob/master/camel-mem-usage/camel-mem-usage.adoc)**」 の資料が公開されました。
   > Camelのメモリ使用量を実測し、メモリ使用量の傾向と変動要素との関係を解説します。 最後に、幾つかのQ&Aを通じて、開発時のメモリ関連のベストプラクティスを紹介します。ベストプラクティスを紹介します。
 
-## フォーラム
-* Japan Camel User Group のフォーラムは[こちら](https://groups.google.com/forum/#!forum/japan-camel-user-group)(<https://groups.google.com/forum/#!forum/japan-camel-user-group>)
+### 記事
 
-## 記事
 * 「[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel-q)」  
   > Camelは、プログラマの能力を一段と引き上げる洗練されたツールで、すべてのJavaプログラマが学ぶ価値のあるものだ。
 * 「[Apache Camel 2.19.0 の新機能](http://qiita.com/tadayosi/items/ab5c548b4ea500665e65)」
@@ -76,22 +89,11 @@ intro:
 * [Camelのメモリ使用傾向](https://github.com/tomonari-yamashita/japan-camel-user-group/blob/master/camel-mem-usage/camel-mem-usage.adoc) (2017/08/10)
   > Camelのメモリ使用量を実測し、メモリ使用量の傾向と変動要素との関係を解説します。 最後に、幾つかのQ&Aを通じて、開発時のメモリ関連のベストプラクティスを紹介します。ベストプラクティスを紹介します。
 
-##  <a name="reading-group"></a>Camel in Action 読書会 
-[Camel in Action, Second Edition](https://www.manning.com/books/camel-in-action-second-edition) (著 Claus Ibsen氏, Jonathan Anstey氏)
+## <a name="forum"></a>フォーラム
 
-![](https://user-images.githubusercontent.com/27920264/29101967-d36b94a8-7cf0-11e7-864c-e97f6734c976.jpeg)
-
-読書会 ご参加は[**こちら**](https://jcug-oss.connpass.com/)から : **<https://jcug-oss.connpass.com/>**
+* Japan Camel User Group のフォーラムは[こちら](https://groups.google.com/forum/#!forum/japan-camel-user-group)(<https://groups.google.com/forum/#!forum/japan-camel-user-group>)
 
 <!--
   * [進め方](/tomonari-yamashita/japan-camel-user-group/wiki/Guidance) 準備中
   * [読書会要約テンプレート](/tomonari-yamashita/japan-camel-user-group/wiki/要約テンプレート) 準備中
--->
-
-
-
-
-<!--
-###  フォーラム
-* 準備中
 -->
