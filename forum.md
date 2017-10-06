@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: '<br/><br/><br/><br/>Japan Camel User Group Forum'
+title: '<br/><br/><br/><br/>JCUG Forum'
 permalink: /forum/
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/community.jpg
+  overlay_image: /assets/images/forum.jpg
   caption: 
 excerpt: ''
 ---
