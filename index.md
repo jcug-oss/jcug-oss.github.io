@@ -91,12 +91,7 @@ intro:
 
 ## <a name="forum"></a>フォーラム
 
-* Japan Camel User Group のフォーラムは[こちら](https://groups.google.com/forum/#!forum/japan-camel-user-group)(<https://groups.google.com/forum/#!forum/japan-camel-user-group>)
+* Japan Camel User Group のフォーラムは[こちら](/forum/)
+* 購読するには[こちら](https://groups.google.com/forum/#!forum/japan-camel-user-group/join)から : <https://groups.google.com/forum/#!forum/japan-camel-user-group/join>
 
-読書会 ご参加は[**こちら**](https://jcug-oss.connpass.com/)から : **<https://jcug-oss.connpass.com/>**
 =======
-
-<!--
-  * [進め方](/tomonari-yamashita/japan-camel-user-group/wiki/Guidance) 準備中
-  * [読書会要約テンプレート](/tomonari-yamashita/japan-camel-user-group/wiki/要約テンプレート) 準備中
--->
