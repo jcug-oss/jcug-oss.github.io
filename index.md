@@ -53,10 +53,11 @@ intro:
 * 「**第２回 Camel in Action 読書会**」**2017/11/21(火) 19:00〜** [Red Hat株式会社 東京オフィス 8F](https://www.redhat.com/ja/files/resources/ja-rhkk-map-2013.pdf)
   * ご参加は[**こちら**](https://jcug-oss.connpass.com/)から : **<https://jcug-oss.connpass.com/>**
   * 「[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel-q)」
-
-  * まだ書籍をご購入いただいていない方は、**購入せず**に当日ご参加ください。
-    * Claus Ibsen氏によりいくつかEBookを提供頂いておりますので、継続してご参加いただける方にお渡しします。数に限りがありますので予めご了承ください。
-    * 当日は同時に今後の運営方法についてもご相談させて頂きます。
+  * ~~まだ書籍をご購入いただいていない方は、**購入せず**に当日ご参加ください。~~
+    * ~~Claus Ibsen氏によりいくつかEBookを提供頂いておりますので、継続してご参加いただける方にお渡しします。数に限りがありますので予めご了承ください。~~
+    * EBookの提供は、定員に達したため終了しました。こちらのManning.comサイトよりEBook版をお買い求めの上、ご参加ください。なお、現時点で39%ディスカウントコード `camel39` が利用可能のようです。
+      * https://www.manning.com/books/camel-in-action-second-edition
+  * 当日は同時に今後の運営方法についてもご相談させて頂きます。
 
 ### Camel in Action, Second Edition
 
