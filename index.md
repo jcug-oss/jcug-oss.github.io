@@ -68,25 +68,17 @@ intro:
 
 ## <a name="news"></a>記事やニュース
 
-### ニュース
-
+* [2017/11/27のニュース] 
+  * 「**[camel transactionのエラーハンドリング方法](https://qiita.com/jian-feng/items/392881ec99b1f7adfb6d)**」の資料が公開されました。
+  * > トランザクションでカバーされている処理については、なるべく doTry, doCatch, doFinally を使って、これらの処理をcommit/rollbackできるように設計した方が良い。 
 * [2017/09/10のニュース] 
-  * 「**[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel-q)**」
+  * 「**[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel-q)**」の資料が公開されました。
   * > Camelは、プログラマの能力を一段と引き上げる洗練されたツールで、すべてのJavaプログラマが学ぶ価値のあるものだ。
 * [2017/08/31のニュース] 
-  * 「**[Apache Camel 2.19.0 の新機能](http://qiita.com/tadayosi/items/ab5c548b4ea500665e65)**」
+  * 「**[Apache Camel 2.19.0 の新機能](http://qiita.com/tadayosi/items/ab5c548b4ea500665e65)**」の資料が公開されました。
     > Apache Camel 2.19.0 がリリースされたので、注目機能をまとめてみる。
 * [2017/08/10のニュース] 
   * 「**[Camelのメモリ使用傾向](https://github.com/tomonari-yamashita/japan-camel-user-group/blob/master/camel-mem-usage/camel-mem-usage.adoc)**」 の資料が公開されました。
-  > Camelのメモリ使用量を実測し、メモリ使用量の傾向と変動要素との関係を解説します。 最後に、幾つかのQ&Aを通じて、開発時のメモリ関連のベストプラクティスを紹介します。ベストプラクティスを紹介します。
-
-### 記事
-
-* 「[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel-q)」  
-  > Camelは、プログラマの能力を一段と引き上げる洗練されたツールで、すべてのJavaプログラマが学ぶ価値のあるものだ。
-* 「[Apache Camel 2.19.0 の新機能](http://qiita.com/tadayosi/items/ab5c548b4ea500665e65)」
-  > Apache Camel 2.19.0 がリリースされたので、注目機能をまとめてみる。
-* [Camelのメモリ使用傾向](https://github.com/tomonari-yamashita/japan-camel-user-group/blob/master/camel-mem-usage/camel-mem-usage.adoc) (2017/08/10)
   > Camelのメモリ使用量を実測し、メモリ使用量の傾向と変動要素との関係を解説します。 最後に、幾つかのQ&Aを通じて、開発時のメモリ関連のベストプラクティスを紹介します。ベストプラクティスを紹介します。
 
 ## <a name="forum"></a>フォーラム
