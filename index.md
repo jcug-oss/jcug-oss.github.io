@@ -42,10 +42,6 @@ intro:
 {% include feature_row %}
 
 
-
-<!-- meta http-equiv="refresh" content="0; URL='https://github.com/tomonari-yamashita/japan-camel-user-group/wiki/'" /-->
-
-
 ##  <a name="reading-group"></a>Camel in Action 読書会
 
 ## <a name="next-reading-group"></a>次回の勉強会
@@ -67,7 +63,9 @@ intro:
 読書会 ご参加は[**こちら**](https://jcug-oss.connpass.com/)から : **<https://jcug-oss.connpass.com/>**
 
 ## <a name="news"></a>記事やニュース
-
+* [2017/11/27のニュース] 
+  * 「**[JJUG CCC: Apache Camel + hawtio + Spring Boot によるモダンなマイクロサービス・インテグレーション](https://tadayosi.github.io/jjug2017-camel_hawtio_springboot/reveal.js/index.html)**」の資料が公開されました。
+  * > 「インテグレーション」マイクロサービスをJavaで開発するモダンな方法として、Apache Camelを紹介します。
 * [2017/11/27のニュース] 
   * 「**[camel transactionのエラーハンドリング方法](https://qiita.com/jian-feng/items/392881ec99b1f7adfb6d)**」の資料が公開されました。
   * > トランザクションでカバーされている処理については、なるべく doTry, doCatch, doFinally を使って、これらの処理をcommit/rollbackできるように設計した方が良い。 
