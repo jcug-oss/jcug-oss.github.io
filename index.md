@@ -41,7 +41,7 @@ intro:
 
 {% include feature_row %}
 
-## <a name="next-reading-group"><<a name="reading-group"></a>Camel in Action 読書会
+## <a name="next-reading-group"><a name="reading-group"></a>Camel in Action 読書会
 
 * 「**第４回 Camel in Action 読書会**」**2017/12/19(火) 19:00〜** [Red Hat株式会社 東京オフィス 8F](https://www.redhat.com/ja/files/resources/ja-rhkk-map-2013.pdf)
   * ご参加は[**こちら**](https://jcug-oss.connpass.com/)から : **<https://jcug-oss.connpass.com/>**
@@ -68,7 +68,7 @@ intro:
 * [2017/12/08のニュース] 
   * 「**[Camel/JBoss Fuse開発環境構築手順](https://qiita.com/jian-feng/items/5d8018ee949a9db701ef)**」の資料が公開されました。
   * > この手順は、apache-camelの開発者またはJBoss Fuseの開発者がローカルPCに、開発環境を構築する簡易手順です。
- [2017/11/27のニュース] 
+* [2017/11/27のニュース] 
   * 「**[JJUG CCC: Apache Camel + hawtio + Spring Boot によるモダンなマイクロサービス・インテグレーション](https://tadayosi.github.io/jjug2017-camel_hawtio_springboot/reveal.js/index.html)**」の資料が公開されました。
   * > 「インテグレーション」マイクロサービスをJavaで開発するモダンな方法として、Apache Camelを紹介します。
 * [2017/11/27のニュース] 
