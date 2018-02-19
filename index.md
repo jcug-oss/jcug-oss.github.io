@@ -30,7 +30,7 @@ github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
   - excerpt: '
-「**第６回 Camel in Action 読書会**」**2018/02/13(火) 19:00〜** <br/>
+「**第７回 Camel in Action 読書会**」**2018/03/13(火) 19:00〜** <br/>
 [Red Hat株式会社 東京オフィス 5F](https://www.redhat.com/ja/files/resources/ja-rhkk-map-2013.pdf)<br/>
 参加は[**こちら**](https://jcug-oss.connpass.com/)から<br/>
   '
@@ -43,7 +43,7 @@ intro:
 
 ## <a name="next-reading-group"><a name="reading-group"></a>Camel in Action 読書会
 
-* 「**第６回 Camel in Action 読書会**」**2018/02/13(火) 19:00〜** [Red Hat株式会社 東京オフィス 5F](https://www.redhat.com/ja/files/resources/ja-rhkk-map-2013.pdf)
+* 「**第７回 Camel in Action 読書会**」**2018/03/13(火) 19:00〜** [Red Hat株式会社 東京オフィス 5F](https://www.redhat.com/ja/files/resources/ja-rhkk-map-2013.pdf)
   * ご参加は[**こちら**](https://jcug-oss.connpass.com/)から : **<https://jcug-oss.connpass.com/>**
   * 「[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel-q)」
   *  継続的に参加される方は、Camel In Actionの購入が必要になります。
