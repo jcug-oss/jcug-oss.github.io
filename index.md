@@ -30,7 +30,7 @@ github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
   - excerpt: '
-「**第７回 Camel in Action 読書会**」**2018/03/13(火) 19:00〜** <br/>
+「**次回 Camel in Action 読書会**」**2018/04/17(火) 19:00〜** <br/>
 [Red Hat株式会社 東京オフィス 5F](https://www.redhat.com/ja/files/resources/ja-rhkk-map-2013.pdf)<br/>
 参加は[**こちら**](https://jcug-oss.connpass.com/)から<br/>
   '
@@ -43,7 +43,7 @@ intro:
 
 ## <a name="next-reading-group"><a name="reading-group"></a>Camel in Action 読書会
 
-* 「**第７回 Camel in Action 読書会**」**2018/03/13(火) 19:00〜** [Red Hat株式会社 東京オフィス 5F](https://www.redhat.com/ja/files/resources/ja-rhkk-map-2013.pdf)
+* 「**次回 Camel in Action 読書会**」**2018/04/17(火) 19:00〜** [Red Hat株式会社 東京オフィス 5F](https://www.redhat.com/ja/files/resources/ja-rhkk-map-2013.pdf)
   * ご参加は[**こちら**](https://jcug-oss.connpass.com/)から : **<https://jcug-oss.connpass.com/>**
   * 「[なぜ今Apache Camelを学ぶ必要があるのか？](http://jcug-oss.github.io/article/why-do-we-have-to-learn-camel-q)」
   *  継続的に参加される方は、Camel In Actionの購入が必要になります。
@@ -65,6 +65,9 @@ intro:
 * 購読するには[こちら](https://groups.google.com/forum/#!forum/japan-camel-user-group/join)から : <https://groups.google.com/forum/#!forum/japan-camel-user-group/join>
 
 ## <a name="news"></a>記事やニュース
+* [2018/03/13のニュース] 
+  * 「**[Javaエンジニアのための(Camelユーザ含む)コンテナ入門](https://github.com/training-banz/camel-trial/blob/af5fad329068eff03367ce6410208847d502b76f/Javaエンジニアのための(Camelユーザ含む)コンテナ入門.pptx?raw=true)**」の資料が公開されました。
+  * > 業務に多忙なJavaエンジニア(Camelユーザを含む)が新しい技術(Docker, OpenShiftなど)を効率的に学ぶための方法を紹介
 * [2017/12/08のニュース] 
   * 「**[Camel/JBoss Fuse開発環境構築手順](https://qiita.com/jian-feng/items/5d8018ee949a9db701ef)**」の資料が公開されました。
   * > この手順は、apache-camelの開発者またはJBoss Fuseの開発者がローカルPCに、開発環境を構築する簡易手順です。
